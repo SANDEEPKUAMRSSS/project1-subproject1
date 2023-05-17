@@ -1,6 +1,6 @@
 first command                           git clone and link    which is import from repo/central repo /project 
-working area to  staging area command   git add --all
-                                        git add "file name "
+working area to  staging area command   git add --all         if reqrired all file to add
+               or                       git add "file name "  Perticuler File required
 nex git status check                    git status 
 next git commit                         git commit -m "comment must be require"
 next git puch                           git push              
